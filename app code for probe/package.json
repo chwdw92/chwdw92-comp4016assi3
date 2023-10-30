@@ -1,0 +1,14 @@
+{
+  "name": "assi1",
+  "version": "1.0.0",
+  "description": "COMP4016 assi01",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Chiho (David)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
